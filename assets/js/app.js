@@ -12,9 +12,9 @@ if (remainder == 0 || remainder == -0) {
 // in een if else functie word gekeken of de remainder 0 of -0 is. is dat true dan is het getal even. zoniet dan is het getal oneven
 
 //Opdracht 2
-const message = 'Programming is not so cool'
+const message = 'Programmeren is niet zo cool'
 console.log(message)
-messagereplaced = message.replace ('not',"")
+messagereplaced = message.replace ('niet',"")
 console.log(messagereplaced)
 //ik vervang de not in de string met lege tekst. zodat de not uit de tekst wordt verwijderd.
 
